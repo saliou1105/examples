@@ -1,8 +1,3 @@
-GIT-CONFIG(1)                                                       Git Manual                                                       GIT-CONFIG(1)
-
-NAME
-       git-config - Get and set repository or global options
-
 SYNOPSIS
        git config [<file-option>] [--type=<type>] [--show-origin] [-z|--null] name [value [value_regex]]
        git config [<file-option>] [--type=<type>] --add name value
