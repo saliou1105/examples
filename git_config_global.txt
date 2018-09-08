@@ -2,7 +2,6 @@
 it's time to work with git!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 SYNOPSIS
        git config [<file-option>] [--type=<type>] [--show-origin] [-z|--null] name [value [value_regex]]
-       git config [<file-option>] [--type=<type>] --add name value
        git config [<file-option>] [--type=<type>] --replace-all name value [value_regex]
        git config [<file-option>] [--type=<type>] [--show-origin] [-z|--null] --get name [value_regex]
        git config [<file-option>] [--type=<type>] [--show-origin] [-z|--null] --get-all name [value_regex]
@@ -16,6 +15,8 @@ SYNOPSIS
        git config [<file-option>] --get-color name [default]
        git config [<file-option>] --get-colorbool name [stdout-is-tty]
        git config [<file-option>] -e | --edit
+
+use somme commit in my git real~~~~~~~!!!!!!!!!!!!!!!
 
 DESCRIPTION
        You can query/set/replace/unset options with this command. The name is actually the section and the key separated by a dot, and the value
