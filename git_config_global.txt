@@ -1,7 +1,6 @@
-
+why we are allways on top!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 it's time to work with git!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 SYNOPSIS
-       git config [<file-option>] [--type=<type>] [--show-origin] [-z|--null] name [value [value_regex]]
        git config [<file-option>] [--type=<type>] --replace-all name value [value_regex]
        git config [<file-option>] [--type=<type>] [--show-origin] [-z|--null] --get name [value_regex]
        git config [<file-option>] [--type=<type>] [--show-origin] [-z|--null] --get-all name [value_regex]
