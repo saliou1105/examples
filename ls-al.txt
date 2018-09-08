@@ -1,0 +1,14 @@
+total 52
+drwxr-xr-x 8 saliou saliou 4096 sep  8 16:02 .
+drwxr-xr-x 3 saliou saliou 4096 sep  8 16:03 ..
+drwxr-xr-x 2 saliou saliou 4096 sep  8 15:55 branches
+-rw-r--r-- 1 saliou saliou   35 sep  8 16:01 COMMIT_EDITMSG
+-rw-r--r-- 1 saliou saliou   92 sep  8 15:55 config
+-rw-r--r-- 1 saliou saliou   73 sep  8 15:55 description
+-rw-r--r-- 1 saliou saliou   23 sep  8 15:55 HEAD
+drwxr-xr-x 2 saliou saliou 4096 sep  8 15:55 hooks
+-rw-r--r-- 1 saliou saliou  153 sep  8 16:01 index
+drwxr-xr-x 2 saliou saliou 4096 sep  8 15:55 info
+drwxr-xr-x 3 saliou saliou 4096 sep  8 16:01 logs
+drwxr-xr-x 7 saliou saliou 4096 sep  8 16:01 objects
+drwxr-xr-x 4 saliou saliou 4096 sep  8 15:55 refs
