@@ -1,3 +1,5 @@
+
+it's time to work with git!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 SYNOPSIS
        git config [<file-option>] [--type=<type>] [--show-origin] [-z|--null] name [value [value_regex]]
        git config [<file-option>] [--type=<type>] --add name value
